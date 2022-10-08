@@ -1,7 +1,7 @@
 {
-  "name": "SimpleBot",
+  "name": "BlackBot",
   "description": "Subscribete a The Shadow Borkers (≧▽≦)",
-  "repository": "https://github.com/BrunoSobrino/SimpleBot",
+  "repository": "https://github.com/Micasatio/Black_Bot",
   "logo": "https://raw.githubusercontent.com/BrunoSobrino/SimpleBot/master/Menu2.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
