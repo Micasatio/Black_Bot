@@ -29,10 +29,10 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '👑 𝐀𝐜𝐢𝐝𝐢𝐜𝐍𝐨𝐝𝐞𝐬 𝐇𝐨𝐬𝐭 👑',
+title: '👑 GitHub  👑',
 body: null,
 thumbnail: fs.readFileSync('./src/logo.png'),
-sourceUrl: `https://chat.whatsapp.com/F0fU7LSlBBcBm6ny5fVSuT`
+sourceUrl: `https://github.com/Micasatio/Black_Bot`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m }) 
 } catch {
