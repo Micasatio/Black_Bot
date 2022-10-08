@@ -5,7 +5,7 @@ let res = await fetch('https://random.dog/woof.json')
 let json = await res.json()
 if (json.status) throw json
 let caption = `
-*©𝑆𝑖𝑚𝑝𝑙𝑒𝐵𝑜𝑡*
+*©BlackBo𝑡*
 `.trim()
 conn.sendFile(m.chat, json.url, 'dog.jpg', caption, m)
 } catch (e) {
