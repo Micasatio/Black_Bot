@@ -57,6 +57,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-<a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="300" height="300" alt="BrunoSobrino"/></a>
+<a href="https://github.com/Micasatio"><img src="https://github.com/Micasatio.png" width="300" height="300" alt="BrunoSobrino"/></a>
 
-`TheMystic-Bot-MD _ By Bruno Sobrino`
+
