@@ -75,7 +75,7 @@ let menu = `
 let buttons = [
 { buttonId: '#owner', buttonText: { displayText: '💫 𝐎𝐖𝐍𝐄𝐑 💫' }, type: 1 },
 { buttonId: '#runtime', buttonText: { displayText: '⏰ 𝐑𝐔𝐍𝐓𝐈𝐌𝐄 ⏰' }, type: 1 },
-{ buttonId: '#infohost', buttonText: { displayText: '👑 𝐈𝐍𝐅𝐎𝐇𝐎𝐒𝐓 👑' }, type: 1 }]
+{ buttonId: 'a', buttonText: { displayText: '👑 a 👑' }, type: 1 }]
 let buttonMessage = {
 image: fs.readFileSync('./Menu2.jpg'),
 caption: menu.trim(),
@@ -98,6 +98,6 @@ conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 }
 handler.help = ['menu', 'help', '?']
 handler.tags = ['general']
-handler.command = /^(menucompleto|comandos|allmenu|info|speed|estado|menú|menu|help|\?)$/i
+handler.command = /^(menucompleto|comandos|allmenu|info|speed|m|menú|menu|help|\?)$/i
 handler.fail = null
 module.exports = handler
