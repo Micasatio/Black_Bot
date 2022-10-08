@@ -1,5 +1,5 @@
 {
-    "name": "SimpleBot",
+    "name": "BlackBot",
     "version": "1.0.0",
     "description": "Subscribete al canal de YT The Shadow Borkers",
     "depecrated": false,
@@ -27,7 +27,7 @@
         "multi-device",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/BrunoSobrino",
+    "homepage": "https://github.com/Micasatio",
     "author": {
         "name": "BrunoSobrino"
     },
