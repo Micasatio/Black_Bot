@@ -5,13 +5,14 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let menu = `
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *✨𝗛ola, ${taguser} :D*
+║➤ *✨𝗛ola, ${taguser} ❣️*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+║ Creador del Bot: BLͥACͣKͫ_OFC
+║Numero Del Creador: +595 983 186566
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
 ┃ *< COMANDOS >*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ඬ⃟🖤 *Grupo De WhatsApp* ➱_https://chat.whatsapp.com/K24yEXY9okI03gcFkW0u1D_
 ┣ ඬ⃟🖤 _a_
 ┣ ඬ⃟🖤 _${usedPrefix}cat_
 ┣ ඬ⃟🖤 _${usedPrefix}dog_
@@ -37,7 +38,7 @@ let menu = `
 ┣ ඬ⃟🖤 _${usedPrefix}google *[texto]*_
 ┣ ඬ⃟🖤 _${usedPrefix}imagen *[texto]*_
 ┣ ඬ⃟🖤 _${usedPrefix}play *[texto]*_
-┣ ඬ⃟ _${usedPrefix}play2 *[texto]*_
+┣ ඬ⃟♥️_${usedPrefix}play2 *[texto]*_
 ┣ ඬ⃟🖤 _${usedPrefix}play3 *[texto]*_
 ┣ ඬ⃟🖤 _${usedPrefix}invocar *[texto]*_
 ┣ ඬ⃟🖤 _${usedPrefix}ytsearch *[texto]*_
@@ -64,6 +65,7 @@ let menu = `
 ┣ ඬ⃟🖤 _${usedPrefix}earrape *[nota de voz]*_
 ┣ ඬ⃟🖤 _${usedPrefix}reverse *[nota de voz]*_
 ┣ ඬ⃟🖤 _${usedPrefix}smooth *[nota de voz]*_
+      *Dicen por ahí que ${taguser} es gay*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃ *< OWNER >*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
