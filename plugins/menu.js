@@ -76,7 +76,7 @@ let menu = `
 `.trim()
 let buttons = [
 { buttonId: '#bot sale chape? bandera lgbt', buttonText: { displayText: ' Sale chape?' }, type: 1 },
-{ buttonId: '#cat', buttonText: { displayText: '.play abusada mente' }, type: 1 },
+{ buttonId: '#play abusadamente', buttonText: { displayText: 'Xd' }, type: 1 },
 { buttonId: '#owner', buttonText: { displayText: '👑 Creador 👑' }, type: 1 }]
 let buttonMessage = {
 image: fs.readFileSync('./Menu2.jpg'),
