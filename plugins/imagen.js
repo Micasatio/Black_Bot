@@ -7,8 +7,7 @@ let results = await gis(text) || []
 let { url, width, height } = pickRandom(results) || {}
 if (!url) return m.reply('*[❗] 𝚂𝙴𝚁𝚅𝙸𝙳𝙾𝚁 𝙲𝙰𝙸𝙳𝙾, 𝙸𝙽𝚃𝙴𝙽𝚃𝙴 𝙼𝙰𝚂 𝚃𝙰𝚁𝙳𝙴*')
 conn.sendFile(m.chat, url, 'gimage', `
-🔎 *𝚁𝙴𝚂𝚄𝙻𝚃𝙰𝙳𝙾 𝙳𝙴:* ${text}
-🌎 *𝙱𝚄𝙲𝙰𝙳𝙾𝚁:* Google
+NOOOO QUE GAY @user
 `.trim(), m)}
 handler.help = ['gimage <query>', 'image <query>']
 handler.tags = ['general']
