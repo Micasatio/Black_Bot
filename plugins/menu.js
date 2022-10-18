@@ -38,7 +38,7 @@ let menu = `
 ┣ ඬ⃟🖤 _${usedPrefix}google *[texto]*_
 ┣ ඬ⃟🖤 _${usedPrefix}imagen *[texto]*_
 ┣ ඬ⃟🖤 _${usedPrefix}play *[texto]*_
-┣ ඬ⃟♥️_${usedPrefix}play2 *[texto]*_
+┣ ඬ⃟♠️_${usedPrefix}play2 *[texto]*_
 ┣ ඬ⃟🖤 _${usedPrefix}play3 *[texto]*_
 ┣ ඬ⃟🖤 _${usedPrefix}invocar *[texto]*_
 ┣ ඬ⃟🖤 _${usedPrefix}ytsearch *[texto]*_
@@ -65,7 +65,7 @@ let menu = `
 ┣ ඬ⃟🖤 _${usedPrefix}earrape *[nota de voz]*_
 ┣ ඬ⃟🖤 _${usedPrefix}reverse *[nota de voz]*_
 ┣ ඬ⃟🖤 _${usedPrefix}smooth *[nota de voz]*_
-      *Dicen por ahí que ${taguser} es gay*
+      *Dicen por ahí que  ${taguser}  es gay*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃ *< OWNER >*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
