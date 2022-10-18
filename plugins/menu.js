@@ -75,8 +75,8 @@ let menu = `
 ┗━━━━━━━━━━━━━┛
 `.trim()
 let buttons = [
-{ buttonId: '#gimage bandera lgbt', buttonText: { displayText: '💫 Soy puto💫' }, type: 1 },
-{ buttonId: '#cat', buttonText: { displayText: 'gato puto' }, type: 1 },
+{ buttonId: '#bot sale chape? bandera lgbt', buttonText: { displayText: ' Sale chape?' }, type: 1 },
+{ buttonId: '#cat', buttonText: { displayText: '.play abusada mente' }, type: 1 },
 { buttonId: '#owner', buttonText: { displayText: '👑 Creador 👑' }, type: 1 }]
 let buttonMessage = {
 image: fs.readFileSync('./Menu2.jpg'),
