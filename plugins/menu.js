@@ -75,9 +75,9 @@ let menu = `
 ┗━━━━━━━━━━━━━┛
 `.trim()
 let buttons = [
-{ buttonId: '#owner', buttonText: { displayText: '💫 𝐎𝐖𝐍𝐄𝐑 💫' }, type: 1 },
-{ buttonId: '#runtime', buttonText: { displayText: '⏰ 𝐑𝐔𝐍𝐓𝐈𝐌𝐄 ⏰' }, type: 1 },
-{ buttonId: 'a', buttonText: { displayText: '👑 a 👑' }, type: 1 }]
+{ buttonId: '#gimage bandera lgbt', buttonText: { displayText: '💫 Soy puto💫' }, type: 1 },
+{ buttonId: '#cat', buttonText: { displayText: 'gato puto' }, type: 1 },
+{ buttonId: '#owner', buttonText: { displayText: '👑 Creador 👑' }, type: 1 }]
 let buttonMessage = {
 image: fs.readFileSync('./Menu2.jpg'),
 caption: menu.trim(),
