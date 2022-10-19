@@ -5,13 +5,15 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let menu = `
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *✨𝗛ola, ${taguser} ❣️*
+║➤ *✨Hello, ${taguser} ❣️*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║ Creador del Bot: BLͥACͣKͫ_OFC
-║Numero Del Creador: +595 983 186566
+║ bot creator: BLͥACͣKͫ_OFC
+║CREATOR NUMBER: +595 983 186566
+║bot version 🚭: V2 (Old version)
+║Bot language: US English
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
-┃ *< COMANDOS >*
+┃ *< commands >*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟🖤 _a_
 ┣ ඬ⃟🖤 _${usedPrefix}cat_
@@ -65,6 +67,7 @@ let menu = `
 ┣ ඬ⃟🖤 _${usedPrefix}earrape *[nota de voz]*_
 ┣ ඬ⃟🖤 _${usedPrefix}reverse *[nota de voz]*_
 ┣ ඬ⃟🖤 _${usedPrefix}smooth *[nota de voz]*_
+
       *Dicen por ahí que  ${taguser}  es gay*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃ *< OWNER >*
