@@ -1,4 +1,4 @@
-(OBSOLETO)⚠️
+
 # `🖤 BLACK BOT 🖤`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
@@ -12,7 +12,7 @@
 <br>
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Bot+obsoleto+por+nuv👻++:)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Dame+Una+estrella+⭐+porfa+)
 <img src="https://c.tenor.com/D2H0hPltOdYAAAAM/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="400" height="230"/>
 </div>
 <br>
@@ -22,19 +22,19 @@
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-⚠️
+
 ```
 
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE ✔️`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-⚠️
+
 ```
 
 ### `—◉ 👽 OBTENER OTRO CODIGO QR 👽`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-⚠️
+
 ```
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
